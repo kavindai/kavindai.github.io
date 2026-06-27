@@ -1,73 +1,137 @@
-# React + TypeScript + Vite
+# Hi, I'm Kavinda Ikiriwatte 👋
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Full Stack Engineer | 7+ Years Experience | Frontend | Backend | AWS
 
-Currently, two official plugins are available:
+I am a Full Stack Engineer with over 7 years of experience building scalable, reliable, and user-focused web applications. I have strong experience across frontend development, backend systems, cloud infrastructure, and modern software engineering practices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+I enjoy designing clean user interfaces, building robust APIs, improving system performance, and deploying applications on AWS.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 About Me
 
-## Expanding the ESLint configuration
+- Full Stack Engineer with 7+ years of professional experience
+- Strong knowledge of frontend and backend development
+- Experienced in building scalable web applications
+- Hands-on experience with AWS cloud services
+- Passionate about clean code, performance, automation, and problem-solving
+- Comfortable working across the full software development lifecycle
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+---
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+## 🛠️ Tech Stack
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+### Frontend
+- React.js
+- Next.js
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-]);
-```
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- GraphQL
+- PHP / Laravel
+- Python
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+### Databases
+- MySQL
+- PostgreSQL
+- MongoDB
+- DynamoDB
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x';
-import reactDom from 'eslint-plugin-react-dom';
+### Cloud & DevOps
+- AWS
+- EC2
+- S3
+- Lambda
+- RDS
+- CloudFront
+- API Gateway
+- IAM
+- Docker
+- CI/CD
+- GitHub Actions
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-]);
-```
+### Tools
+- Git
+- GitHub
+- Postman
+- Jira
+- VS Code
+- Linux
+
+---
+
+## 💼 What I Do
+
+- Build responsive and modern frontend applications
+- Develop secure and scalable backend APIs
+- Design and manage databases
+- Deploy applications using AWS services
+- Integrate third-party APIs and payment gateways
+- Improve application performance and reliability
+- Work with CI/CD pipelines and cloud infrastructure
+
+---
+
+## 📌 Featured Projects
+
+### Full Stack Web Application
+A scalable web application built with modern frontend and backend technologies.
+
+**Tech:** React, Node.js, Express, PostgreSQL, AWS
+
+---
+
+### AWS Serverless Application
+A cloud-native serverless application using AWS Lambda, API Gateway, DynamoDB, and S3.
+
+**Tech:** AWS Lambda, API Gateway, DynamoDB, S3
+
+---
+
+### E-commerce Platform
+A complete e-commerce solution with product management, cart, checkout, payment integration, and admin dashboard.
+
+**Tech:** Next.js, Node.js, MongoDB, AWS
+
+---
+
+### Admin Dashboard
+A responsive dashboard for managing users, reports, analytics, and business operations.
+
+**Tech:** React, TypeScript, REST APIs, Tailwind CSS
+
+---
+
+## 📈 GitHub Stats
+
+![Kavinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=aikiriwatte123&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aikiriwatte123&layout=compact)
+
+---
+
+## 🌱 Currently Exploring
+
+- Advanced AWS architecture
+- Serverless applications
+- Microservices
+- DevOps automation
+- Scalable system design
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: [github.com](https://github.com/aikiriwatte123)
+- LinkedIn: [Kavinda Ikiriwatte](https://www.linkedin.com/in/kavinda-ikiriwatte/)
+- Email: kavindai@outlook.com
+
+---

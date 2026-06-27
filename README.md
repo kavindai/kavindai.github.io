@@ -110,14 +110,6 @@ A responsive dashboard for managing users, reports, analytics, and business oper
 
 ---
 
-## 📈 GitHub Stats
-
-![Kavinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=aikiriwatte123&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aikiriwatte123&layout=compact)
-
----
-
 ## 🌱 Currently Exploring
 
 - Advanced AWS architecture
